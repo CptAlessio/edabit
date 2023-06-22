@@ -1,4 +1,4 @@
-# edabitChallenges
+# edabit
 A collection of my solutions to coding challenges on Edabit
 
 Profile url
